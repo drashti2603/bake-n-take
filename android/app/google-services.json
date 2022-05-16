@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312364555319",
+    "project_id": "bakentake-fb204",
+    "storage_bucket": "bakentake-fb204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312364555319:android:4a791b85825ea6614673b2",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312364555319-h48ihntrnh51a6uf03aqi769stt8ejin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNI_wUExCmY85mCn9OPi2ILegoK4EBRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312364555319-h48ihntrnh51a6uf03aqi769stt8ejin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
